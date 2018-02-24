@@ -1,12 +1,4 @@
 {
 	"author" : "MatthiasHua",
 	"language" : "zh-hans",
-	"plugins": [
-        "multipart"
-    ],
-    "pluginsConfig": {
-        "theme-default": {
-             "showLevel": true
-        }
-    }
 }
