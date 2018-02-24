@@ -2,7 +2,6 @@
 	"author" : "MatthiasHua",
 	"language" : "zh-hans",
 	"plugins": [
-        "anchors",
         "multipart"
     ],
     "pluginsConfig": {
