@@ -4,7 +4,7 @@
 	"plugins": [
         "anchors",
         "comscore",
-        "multipart",
+        "multipart"
     ],
     "pluginsConfig": {
         "theme-default": {
