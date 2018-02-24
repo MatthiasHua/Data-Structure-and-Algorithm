@@ -1,9 +1,6 @@
 {
 	"author" : "MatthiasHua",
 	"language" : "zh-hans",
-	"styles": {
-    	"pdf": "styles/pdf.css"
-	},
 	 "pdf": {
 	    "pageNumbers": true,
 	    "fontFamily": "Arial",
