@@ -5,7 +5,7 @@
     	"pdf": "styles/pdf.css"
 	},
 	 "pdf": {
-	    "pageNumbers": true, 
+	    "pageNumbers": true,
 	    "fontFamily": "Arial",
 	    "fontSize": 120,
 	    "paperSize": "a4",
@@ -15,4 +15,5 @@
 	      "top": 56,
 	      "bottom": 56
     }
+	}
 }
