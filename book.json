@@ -1,4 +1,7 @@
 {
 	"author" : "MatthiasHua",
-	"language" : "zh-hans"
+	"language" : "zh-hans",
+	"styles": {
+    "pdf": "styles/pdf.css"
+	}
 }
