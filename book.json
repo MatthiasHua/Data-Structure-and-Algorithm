@@ -7,7 +7,7 @@
 	 "pdf": {
 	    "pageNumbers": true,
 	    "fontFamily": "Arial",
-	    "fontSize": 6,
+	    "fontSize": 8,
 	    "paperSize": "a4",
 	    "margin": {
 	      "right": 62,
