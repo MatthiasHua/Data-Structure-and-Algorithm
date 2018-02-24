@@ -1,3 +1,14 @@
 {
-    "plugins": ["toggle-chapters"]
+	"author" : "MatthiasHua",
+	"language" : "zh-hans",
+	"plugins": [
+        "anchors",
+        "comscore",
+        "multipart",
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+             "showLevel": true
+        }
+    }
 }
