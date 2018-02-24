@@ -3,7 +3,6 @@
 	"language" : "zh-hans",
 	"plugins": [
         "anchors",
-        "comscore",
         "multipart"
     ],
     "pluginsConfig": {
