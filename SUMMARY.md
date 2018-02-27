@@ -14,3 +14,4 @@ bui# Summary
 - [LeetCode](LeetCode/LeetCode.md)
     - [1. Two Sum](LeetCode/Two Sum.md)
     - [2. Add Two Numbers](LeetCode/Add Two Numbers.md)
+    - [3. Longest Substring Without Repeating Characters](Longest Substring Without Repeating Characters.md)
