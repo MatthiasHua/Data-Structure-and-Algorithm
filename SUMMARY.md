@@ -10,7 +10,7 @@ bui# Summary
     - 第六讲 图(上)
     - [第七讲 图(中)]()
         -[哈利·波特的考试](ZJU-93001/第七讲/哈利·波特的考试.md)
-    -[哈利·波特的考试](ZJU-93001/第七讲/哈利·波特的考试.md)
+    - [哈利·波特的考试](ZJU-93001/第七讲/哈利·波特的考试.md)
     - 第八讲 图(下)
 - [LeetCode](LeetCode/LeetCode.md)
     - [1. Two Sum](LeetCode/Two Sum.md)
