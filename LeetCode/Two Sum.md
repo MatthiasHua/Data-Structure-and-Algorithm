@@ -15,7 +15,7 @@ return [0, 1].
 
 ```
 
-
+Solution(cpp):
 ```cpp
 class Solution {
 public:
