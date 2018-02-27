@@ -1,7 +1,9 @@
 # LeetCode
 
-1   [Two Sum](Two Sum.md)
-2   Add Two Numbers  
+1   [Two Sum](Two Sum.html)
+
+2   [Add Two Numbers](Add Two Numbers.html)
+
 3   Longest Substring Without Repeating Characters
 4   Median of Two Sorted Arrays         22.8%   Hard    
 5   Longest Palindromic Substring           25.2%   Medium  
