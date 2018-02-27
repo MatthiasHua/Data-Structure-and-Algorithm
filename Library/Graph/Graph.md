@@ -8,6 +8,8 @@ void initGraph (Graph &graph) // 初始化一个空图
 void DFS_recursive(Graph &graph, int startVertex, int visited[]) // DFS遍历 递归实现
 void DFS_nonrecursive(Graph &graph, int startVertex) // DFS遍历 非递归实现
 void BFS(Graph &graph, int startVertex) // BFS遍历 非递归实现
+void unweightShortPath(Graph & graph, int Source, int dict[], int path[]) // 无权图的单源最短路
+void Dijkstra(Graph &graph, int Source, int dict[], int path[]) // 有权图的单源最短路
 ```
 
 输入:
