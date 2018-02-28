@@ -15,3 +15,4 @@ bui# Summary
     - [1. Two Sum](LeetCode/Two Sum.md)
     - [2. Add Two Numbers](LeetCode/Add Two Numbers.md)
     - [3. Longest Substring Without Repeating Characters](LeetCode/Longest Substring Without Repeating Characters.md)
+    - [4. Median of Two Sorted Arrays](LeetCode/Median of Two Sorted Arrays.md)

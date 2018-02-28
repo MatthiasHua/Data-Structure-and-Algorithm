@@ -3,9 +3,8 @@
 1. [Two Sum](Two Sum.html)
 2. [Add Two Numbers](Add Two Numbers.html)
 3. [Longest Substring Without Repeating Characters](Longest Substring Without Repeating Characters.html)
-
-4   Median of Two Sorted Arrays         22.8%   Hard    
-5   Longest Palindromic Substring           25.2%   Medium  
+4. [Median of Two Sorted Arrays](Median of Two Sorted Arrays.html)
+5. Longest Palindromic Substring           25.2%   Medium  
 6   ZigZag Conversion           27.2%   Medium  
 7   Reverse Integer         24.4%   Easy    
 8   String to Integer (atoi)            14.0%   Medium  
