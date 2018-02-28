@@ -4,9 +4,9 @@
 2. [Add Two Numbers](Add Two Numbers.html)
 3. [Longest Substring Without Repeating Characters](Longest Substring Without Repeating Characters.html)
 4. [Median of Two Sorted Arrays](Median of Two Sorted Arrays.html)
-5. Longest Palindromic Substring           25.2%   Medium  
-6   ZigZag Conversion           27.2%   Medium  
-7   Reverse Integer         24.4%   Easy    
+5. [Longest Palindromic Substring](Longest Palindromic Substring.html)
+6. [ZigZag Conversion](ZigZag Conversion.html)
+7. [Reverse Integer]         24.4%   Easy    
 8   String to Integer (atoi)            14.0%   Medium  
 9   Palindrome Number           35.7%   Easy    
 10  Regular Expression Matching         24.3%   Hard    
