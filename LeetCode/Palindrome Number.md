@@ -14,6 +14,7 @@ You could also try reversing an integer. However, if you have solved the problem
 There is a more generic way of solving this problem.
 
 转换成数组/字符串处理:
+
 **Solution(cpp):**
 ```
 class Solution {
@@ -35,6 +36,7 @@ public:
 ```
 
 反转数字后判断是否相等，要注意负数:
+
 **Solution(cpp):**
 ```
 class Solution {
