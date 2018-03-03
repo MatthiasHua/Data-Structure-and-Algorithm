@@ -6,9 +6,10 @@
 4. [Median of Two Sorted Arrays](Median of Two Sorted Arrays.html)
 5. [Longest Palindromic Substring](Longest Palindromic Substring.html)
 6. [ZigZag Conversion](ZigZag Conversion.html)
-7. [Reverse Integer]         24.4%   Easy    
-8   String to Integer (atoi)            14.0%   Medium  
-9   Palindrome Number           35.7%   Easy    
+7. [Reverse Integer](Reverse Integer.html)
+8. [String to Integer (atoi)](String to Integer (atoi).html)
+9. [Palindrome Number](Palindrome Number.html) 
+
 10  Regular Expression Matching         24.3%   Hard    
 11  Container With Most Water           37.1%   Medium  
 12  Integer to Roman            46.0%   Medium  
