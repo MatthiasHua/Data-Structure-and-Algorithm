@@ -1,5 +1,7 @@
 # 9. Palindrome Number
 
+---
+
 Determine whether an integer is a palindrome. Do this without extra space.
 
 **Some hints:**
@@ -11,6 +13,7 @@ You could also try reversing an integer. However, if you have solved the problem
 
 There is a more generic way of solving this problem.
 
+转换成数组/字符串处理:
 **Solution(cpp):**
 ```
 class Solution {
@@ -27,6 +30,31 @@ public:
             if (s[i] != s[s.size() - i - 1])
                 return false;
         return true;
+    }
+};
+```
+
+反转数字后判断是否相等，要注意负数:
+**Solution(cpp):**
+```
+class Solution {
+public:
+    int reverse(int x) {
+        int y = 0;
+        while (x) {
+            y = y * 10 + x % 10;
+            if (y % 10 == x % 10)
+                x = x / 10;
+            else
+                return 0;
+        }
+        return y;
+    }
+    bool isPalindrome(int x) {
+        int y = reverse(x);
+        if (x == y && x >= 0)
+            return true;
+        return false;
     }
 };
 ```
