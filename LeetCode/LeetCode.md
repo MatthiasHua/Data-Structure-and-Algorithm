@@ -15,9 +15,9 @@
 11. [Container With Most Water](Container With Most Water.html)
 12. [Integer to Roman](Integer to Roman.html) 
 13. [Roman to Integer](Roman to Integer.html)
+14  [Longest Common Prefix](Longest Common Prefix.html)
+15  [3Sum](3Sum.html)
 
-14  Longest Common Prefix           31.6%   Easy    
-15  3Sum            21.8%   Medium  
 16  3Sum Closest            31.6%   Medium  
 17  Letter Combinations of a Phone Number           36.1%   Medium  
 18  4Sum            27.4%   Medium  

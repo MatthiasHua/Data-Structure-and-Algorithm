@@ -25,3 +25,5 @@ bui# Summary
     - [11. Container With Most Water](LeetCode/Container With Most Water.md)
     - [12. Integer to Roman](LeetCode/Integer to Roman.md)
     - [13. Roman to Integer](LeetCode/Roman to Integer.md)
+    - [14. Longest Common Prefix](LeetCode/Longest Common Prefix.md)
+    - [15. 3Sum](LeetCode/3Sum.md)
