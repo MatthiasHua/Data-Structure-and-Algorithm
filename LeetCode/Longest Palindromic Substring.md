@@ -22,7 +22,7 @@ Output: "bb"
 
 最容易想到的就是枚举中心点然后向两边找最大回文串，要注意分为奇数长度和偶数长度。
 **Solution(cpp):**
-```
+```cpp
 class Solution {
 public:
     string longestPalindrome(string s) {

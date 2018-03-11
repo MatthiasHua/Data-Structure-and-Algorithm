@@ -20,7 +20,7 @@ string convert(string text, int nRows);
 `convert("PAYPALISHIRING", 3)` should return `"PAHNAPLSIIGYIR"`.
 
 **Solution(cpp):**
-```
+```cpp
 class Solution {
 public:
     string convert(string s, int numRows) {
