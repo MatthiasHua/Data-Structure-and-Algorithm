@@ -15,9 +15,9 @@
 13. [Roman to Integer](Roman to Integer.html)
 14. [Longest Common Prefix](Longest Common Prefix.html)
 15. [3Sum](3Sum.html)
+16. [3Sum Closest](3Sum Closest.html)
+17. [Letter Combinations of a Phone Number](Letter Combinations of a Phone Number.html)
 
-16  3Sum Closest            31.6%   Medium  
-17  Letter Combinations of a Phone Number           36.1%   Medium  
 18  4Sum            27.4%   Medium  
 19  Remove Nth Node From End of List            34.1%   Medium  
 20  

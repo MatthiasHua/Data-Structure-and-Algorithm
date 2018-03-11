@@ -38,7 +38,7 @@ public:
 反转数字后判断是否相等，要注意负数:
 
 **Solution(cpp):**
-```
+```cpp
 class Solution {
 public:
     int reverse(int x) {
