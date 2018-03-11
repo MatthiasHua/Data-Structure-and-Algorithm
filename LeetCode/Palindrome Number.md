@@ -16,7 +16,7 @@ There is a more generic way of solving this problem.
 转换成数组/字符串处理:
 
 **Solution(cpp):**
-```
+```cpp
 class Solution {
 public:
     bool isPalindrome(int x) {

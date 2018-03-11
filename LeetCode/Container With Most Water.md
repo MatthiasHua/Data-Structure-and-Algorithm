@@ -7,7 +7,7 @@ Given n non-negative integers a1, a2, ..., an, where each represents a point at 
 Note: You may not slant the container and n is at least 2.
 
 **Solution(cpp):**
-```
+```cpp
 class Solution {
 public:
     int maxArea(vector<int>& height) {
