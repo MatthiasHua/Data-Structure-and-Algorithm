@@ -40,3 +40,19 @@ public:
     }
 };
 ```
+
+map:
+```cpp
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        int i = 0;
+        map<int, int> m;
+        while(i < nums.size() && !m[nums[i]]) {
+            m[target - nums[i]] = i + 1;
+            i++;
+        }
+        return {m[nums[i]] - 1, i};
+    }
+};
+```
