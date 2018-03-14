@@ -29,3 +29,4 @@ bui# Summary
     - [14. Longest Common Prefix](LeetCode/Longest Common Prefix.md)
     - [15. 3Sum](LeetCode/3Sum.md)
     - [17. Letter Combinations of a Phone Number](LeetCode/Letter Combinations of a Phone Number.md)
+    - [39. Combination Sum](LeetCode/Combination Sum.md)

@@ -17,49 +17,28 @@
 15. [3Sum](3Sum.html)
 16. [3Sum Closest](3Sum Closest.html)
 17. [Letter Combinations of a Phone Number](Letter Combinations of a Phone Number.html)
-
-18  4Sum            27.4%   Medium  
-19  Remove Nth Node From End of List            34.1%   Medium  
-20  
-Valid Parentheses           33.9%   Easy    
-21  
-Merge Two Sorted Lists          40.6%   Easy    
-22  
-Generate Parentheses            47.5%   Medium  
-23  
-Merge k Sorted Lists            28.0%   Hard    
-24  
-Swap Nodes in Pairs         39.0%   Medium  
-25  
-Reverse Nodes in k-Group            31.3%   Hard    
-26  
-Remove Duplicates from Sorted Array         36.1%   Easy    
-27  
-Remove Element          40.5%   Easy    
-28  
-Implement strStr()          28.9%   Easy    
-29  
-Divide Two Integers         15.8%   Medium  
-30  
-Substring with Concatenation of All Words           22.3%   Hard    
-31  
-Next Permutation            29.0%   Medium  
-32  
-Longest Valid Parentheses           23.2%   Hard    
-33  
-Search in Rotated Sorted Array          32.0%   Medium  
-34  
-Search for a Range          31.6%   Medium  
-35  
-Search Insert Position          40.0%   Easy    
-36  
-Valid Sudoku            37.3%   Medium  
-37  
-Sudoku Solver           31.8%   Hard    
-38  
-Count and Say           36.5%   Easy    
-39  
-Combination Sum         40.9%   Medium  
+18. 4Sum            27.4%   Medium  
+19. Remove Nth Node From End of List            34.1%   Medium  
+20. Valid Parentheses           33.9%   Easy    
+21. Merge Two Sorted Lists          40.6%   Easy    
+22. Generate Parentheses            47.5%   Medium  
+23. Merge k Sorted Lists            28.0%   Hard    
+24. Swap Nodes in Pairs         39.0%   Medium  
+25. Reverse Nodes in k-Group            31.3%   Hard    
+26. Remove Duplicates from Sorted Array         36.1%   Easy    
+27. Remove Element          40.5%   Easy    
+28. Implement strStr()          28.9%   Easy    
+29. Divide Two Integers         15.8%   Medium  
+30. Substring with Concatenation of All Words           22.3%   Hard    
+31. Next Permutation            29.0%   Medium  
+32. Longest Valid Parentheses           23.2%   Hard    
+33. Search in Rotated Sorted Array          32.0%   Medium  
+34. Search for a Range          31.6%   Medium  
+35. Search Insert Position          40.0%   Easy    
+36. Valid Sudoku            37.3%   Medium  
+37. Sudoku Solver           31.8%   Hard    
+38. Count and Say           36.5%   Easy    
+39. [Combination Sum](Combination Sum.html)
 40  
 Combination Sum II          35.6%   Medium  
 41  
